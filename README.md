@@ -22,5 +22,4 @@ Você pode baixá-lo em: [https://nodejs.org](https://nodejs.org)
    ```bash
    npm run dev
 
-
 O Projeto irá rodar por padrão em: [http://localhost:5173](http://localhost:5173)
